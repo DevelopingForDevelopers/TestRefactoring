@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TestingRefactoring": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "variable1": "hola mundo desde variables de entorno",
+        "variable2": "adios mundo desde variables de entorno"
+      }
+    }
+  }
+}

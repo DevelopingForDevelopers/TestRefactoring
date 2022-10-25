@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "rHuiht4rKwFnPZqbU9wGmSJd/m1VBib0LVKVftgFhUF0OWaI+nUKffT9XzvBMmtTlzkdvr/Ay4kfOE3kd5VPJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Blog\\net\\exercise1\\TestingRefactoring\\TestingRefactoring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesus\\.nuget\\packages\\ardalis.guardclauses\\4.0.1\\ardalis.guardclauses.4.0.1.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\6.0.1\\microsoft.extensions.configuration.environmentvariables.6.0.1.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0\\microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.configuration.json\\6.0.0\\microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
